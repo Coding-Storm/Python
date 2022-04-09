@@ -1,0 +1,8 @@
+#First Method
+var = "14"
+type=type(var)
+print(type)
+
+#Second method
+var = "14"
+print(type(var))
