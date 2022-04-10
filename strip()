@@ -1,0 +1,13 @@
+#Strip whitespaces
+var = "       wqd     "
+new_var = var.strip()
+print(new_var)
+
+#Strip a specific character
+var = " !@#       wgd      !@#"
+new_var = var.strip(!)
+print(new_var)
+
+#Other Strips
+#l.strip - Strips the left part
+#r.strip - Strips the right part
