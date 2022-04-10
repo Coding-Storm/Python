@@ -5,3 +5,6 @@ The type function tells you the data type of the variable.
 
 - [Split()](https://github.com/Coding-Storm/Python/blob/main/split())
 The split function splits the values present in a variable and stores them in the different variables gives by the user.
+
+-[Strip()](https://github.com/Coding-Storm/Python/blob/main/strip())
+The strip function strips the white spaces or a specific character from a variable.
