@@ -1,0 +1,5 @@
+data = "John,Rider,21"
+name,l_name,age = data.split(sep=",")
+print("Name:" + " " + name)
+print("Last Name:" + " " + l_name)
+print("Age:" + " " + age)
